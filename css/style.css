@@ -1,0 +1,45 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+
+body {
+  background-color: #f4f4f4;
+  font-family: sans-serif;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 6px;
+  border-color: LightBlue;
+  width: 5%;
+}
+
+h1 {
+  color: #6983aa;
+}
+
+h3 {
+  color: #6983aa;
+}
+
+img {
+  border-radius: 100%;
+}
+
+.nav {
+  font-family: "Times New Roman", Times, serif;
+  color: blue;
+}
+
+.judul {
+ font-family: 'Roboto';
+ color: #8566aa;
+}
+
+#image:hover, .nav:hover {
+  background-color: #efb1ff;
+}
+
+#bio {
+  font-family: cursive;
+  color: #024249;
+}
